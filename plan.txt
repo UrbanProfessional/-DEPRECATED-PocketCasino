@@ -1,0 +1,4 @@
+1.Create 8Bit Logo (Pocket Casino) for website
+2.Build simple yet eye-catching background for the website
+3.Build out the website around the canvas 
+4.Start Canvas
