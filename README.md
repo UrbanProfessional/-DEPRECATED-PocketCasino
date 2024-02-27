@@ -1,1 +1,1 @@
-PROJECT WILL BE MOVED TO UNDER NEW REPO (urbanprofessional.net)
+PROJECT WILL BE MOVED UNDER NEW REPO (urbanprofessional.net)
